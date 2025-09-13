@@ -21,6 +21,8 @@ Além disso, foi um projeto totalmente autodidata, realizado antes do meu ingres
 
 Apesar da simplicidade geral do jogo, meu principal foco e área de estudo foi a criação da IA para o monstro que persegue o jogador. Em vez de um comportamento simples e previsível, dediquei tempo para pesquisar e implementar diferentes algoritmos para criar uma perseguição que fosse desafiadora e imersiva. Apesar de possuir alguns bugs, foi um primeiro contato divertido.
 
+>  **O código-fonte completo da inteligência artificial, implementado em Lua, pode ser encontrado no arquivo [`AI.lua`](./AI.lua) neste repositório.**
+
 O desenvolvimento da IA envolveu o trabalho com:
 
 -   **Máquinas de Estado (State Machines):** Para controlar os diferentes comportamentos do monstro, como `PATRULHANDO`, `PERSEGUINDO` e `ATACANDO`.
