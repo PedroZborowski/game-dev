@@ -18,6 +18,8 @@ Infelizmente, o desenvolvimento do jogo foi descontinuado. Com o tempo, o grupo 
 
 ## Minha Contribuição como Líder de Desenvolvimento
 
+>  **Nota:** Considerando que o código completo do jogo é muito extenso, selecionei alguns dos principais arquivos associados às minhas contribuições e os coloquei na pasta [`codes`](./codes/) para uma análise focada.
+
 Neste projeto, atuei como **Líder de Desenvolvimento (Dev Lead)**. Além de programar funcionalidades específicas, minha principal responsabilidade era a gestão técnica da equipe para garantir a coesão, a qualidade e a integração do código. Minhas tarefas incluíam:
 
 -   **Gerenciamento de Contribuições:** Organizar, revisar (code review) e integrar as contribuições de código de quase **10 desenvolvedores diferentes**. Isso exigiu um profundo entendimento de cada parte do projeto para garantir que as novas funcionalidades se encaixassem corretamente na arquitetura existente.
