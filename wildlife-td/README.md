@@ -2,7 +2,9 @@
 
 _Um jogo de Tower Defense complexo desenvolvido em equipe no Roblox Studio, com foco em networking, persistência de dados e IA avançada._
 
-![GIF ou Screenshot do Jogo](https://via.placeholder.com/600x300.png?text=INSIRA+UM+GIF+OU+SCREENSHOT+DO+JOGO+AQUI)
+![GIF ou Screenshot do Jogo](https://github.com/PedroZborowski/game-dev/blob/main/wildlife-td/images/tiger.gif?raw=true)
+![GIF ou Screenshot do Jogo](https://github.com/PedroZborowski/game-dev/blob/main/wildlife-td/images/inventory.png?raw=true)
+![GIF ou Screenshot do Jogo](https://github.com/PedroZborowski/game-dev/blob/main/wildlife-td/images/game.png?raw=true)
 
 ## Sobre o Projeto
 
