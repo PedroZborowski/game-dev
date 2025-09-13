@@ -7,7 +7,7 @@
     <em>Clique para revelar.</em>
   </summary>
 
-  ![Screenshot do jogo Escape the Purple House]((https://github.com/PedroZborowski/game-dev/blob/main/escape-the-purple-house/imagemresumo.png))
+  ![Screenshot do jogo Escape the Purple House](https://github.com/PedroZborowski/game-dev/blob/main/escape-the-purple-house/imagemresumo.png?raw=true)
 
 </details>
 
