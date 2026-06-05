@@ -1,3 +1,5 @@
+🇺🇸 [English version](README.md)
+
 # Escape the Purple House
 
 <details>
