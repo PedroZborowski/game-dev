@@ -1,3 +1,5 @@
+🇺🇸 [English version](README.md)
+
 # Wildlife Tower Defense
 
 _Um jogo de Tower Defense complexo desenvolvido em equipe no Roblox Studio, com foco em networking, persistência de dados e IA avançada._
