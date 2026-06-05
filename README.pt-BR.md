@@ -1,3 +1,5 @@
+🇺🇸 [English version](README.md)
+
 # Portfólio de Desenvolvimento de Jogos
 
 Este repositório contém meus projetos de desenvolvimento de jogos, documentando minha jornada de aprendizado e evolução técnica. Aqui você encontrará desde meu primeiro projeto autodidata até jogos mais complexos desenvolvidos em equipe.
